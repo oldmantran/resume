@@ -28,7 +28,6 @@ This space is my ongoing experiment—where tools like Grok/llama/GPT, MCP tools
 - Modular CLI & Pipeline Orchestration (YAML/JSON)
 - Autonomous Testing Ecosystems & QA Governance
 - Azure DevOps Extensions & Test Management API
-- GitHub Actions, MCP Server Configuration
 - Human/AI Workflow Integration & Swarm Agent Design
 - Creative World-Building & Narrative Systems Thinking
 
