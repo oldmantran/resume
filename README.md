@@ -6,7 +6,7 @@
 
 Welcome to my sandbox.
 
-I design solutions that matter — ones born from empathy, built with precision, and delivered at velocity. With 25 years in tech and 6 years of mission-first military service, I’ve learned that the best systems aren't just functional — they're thoughtful.
+I design solutions that matter — ones born from empathy, built with precision, and delivered at velocity. With 26 years in tech and 5 years of mission-first military service, I’ve learned that the best systems aren't just functional — they're thoughtful.
 
 I thrive on puzzles, efficiency, and the quiet thrill of transforming pain points into elegant automation. Whether it's orchestrating AI agents or heading into remote wilderness with Starlink and minimalist camping gear, I build and explore with intensity.
 
