@@ -32,9 +32,102 @@ As automation accelerates and autonomy scales, my vision is rooted in preserving
 
 ---
 
+## 🚧 Featured Projects
+
+**Agile Backlog Automation – Multi-Agent AI System for DevOps**  
+Built a modular AI pipeline that interprets high-level product visions and generates full Azure DevOps backlogs—epics, features, user stories, tasks, and test cases. The system uses both cloud and local LLMs to optimize cost and performance, while maintaining transparency and traceability.  
+*Tools:* Python, FastAPI, React, Azure DevOps API, Ollama, YAML, SSE  
+- Architected multi-agent roles (Strategist, Decomposer, Developer, QA Lead, Test Planner)  
+- Enabled cost-effective local LLM inference (95–99% reduction over cloud)  
+- Developed SSE-powered UI for real-time task streaming and feedback  
+- Integrated semantic parsing of Vision Statements for actionable decomposition  
+- Delivered full work item export with parent-child traceability for backlog hierarchy
+
+---
+
+**POB System Rescue – Offshore Operations Platform Delivery**  
+Led a multi-year initiative to architect and deliver a new administrative tool that connected onshore headquarters to offshore oil rig information systems in real-time. The platform facilitated operations visibility, personnel tracking, and business continuity across multiple global drilling sites.  
+*Tools:* C#, .NET, Silverlight, SQL Server, Visio, Azure DevOps  
+- Directed a stable team of 6–8 developers over four years of consistent delivery  
+- Translated operational requirements into scalable workflows, access protocols, and real-time data integration  
+- Designed cross-team technical documentation and process maps to support high availability and stakeholder trust  
+- Delivered a secure, responsive interface built for rugged field use and mission-critical uptime
+
+---
+
+## Technical Skills
+
+**Programming & Scripting**  
+- Python, YAML, JSON, SQL, Bash, PowerShell
+- Java, C#, .NET, Silverlight (legacy support and migration strategy)
+
+**AI Tools & Agentic Platforms**  
+- GitHub Copilot, Cursor, CodeGuide, Windsurf  
+- LM Studio, MCP (Model Context Protocol), VS Code  
+- Agentic Programming frameworks and custom role orchestration
+
+**Large Language Models (LLMs)**  
+- GPT-4.1, Grok 4, CodeLlama, LLaMA 3.1  
+- Integration, fine-tuning strategy, and sandbox testing environments
+
+**DevOps & Automation**  
+- Azure DevOps (Repos, Pipelines, Boards, Test Plans)  
+- GitHub Actions  
+- Test Management API integration  
+- Modular pipeline orchestration and CLI architecture
+
+**System & Workflow Design**  
+- Visio process flows and blueprint diagrams  
+- Data mapping and model refinement  
+- Agile Backlog Automation and intelligent test case generation
+
+**Databases & Integration**  
+- SQL Server, CosmosDB, PostGres & pgAdmin  
+- API design, consumption, and orchestration across distributed systems
+
+**Collaboration & Delivery**  
+- Translating business requirements into scalable technical specs  
+- Leading cross-functional teams through agile iterations and large-scale project delivery  
+- Rapid prototyping and iterative refinement strategies
+
+---
+
+## 💼 Professional Experience
+
+**Senior Project Delivery Manager**  
+*C4Workx* – Houston, TX | Jan 2025 – Present  
+
+**Managing Consultant**  
+*Indigo Beam Consulting* – Houston, TX | Jan 2023 – Jan 2025  
+
+**Sr. Manager of Cloud Operations – Environments and Infrastructure**  
+*Quorum Software* – Houston, TX | Aug 2018 – Dec 2022  
+
+**Owner and Principal Consultant**  
+*KTRAN Consulting LLC* – Houston, TX | Feb 2013 – Aug 2018  
+
+**Business Consulting Practice Leader**  
+*Sparkhound* – Houston, TX | Nov 2010 – Feb 2013  
+
+**Principal Consultant**  
+*Idea Integration* – Houston, TX | Mar 2009 – Nov 2010  
+
+**Principal Consultant**  
+*Sogeti* – Houston, TX | Apr 2007 – Mar 2009  
+
+**Senior Business Analyst**  
+*TECHSOFT, Inc.* – Pensacola, FL | Feb 2006 – Apr 2007  
+
+**Senior Business Analyst**  
+*The Home Depot* – Greater Atlanta Area | Jan 1999 – Jul 2005  
+
+**Hospital Corpsman / Pharmacy Technician**  
+*U.S. Navy* – Pensacola, FL | Mar 1994 – Feb 1999  
+
+---
+
 Next sections I can help you develop:
-- 🚧 Featured Projects
-- 🛠️ Technical Skills (formatted for impact)
+
 - 💼 Professional Experience
 - 🎓 Education & Certifications
 - 🎯 Personal Interests & Hobbies (optional but powerful)
