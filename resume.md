@@ -1,17 +1,17 @@
 
 # Kevin Thao Tran  
 Houston, TX · kevinttran@hotmail.com · [LinkedIn](https://www.linkedin.com/in/kevintran) · [GitHub](https://github.com/oldmantran)  
-**Tagline:** Define. Defy. Deliver.
+**"I do not patch the past. I forge the future."**
 
 ---
 
 ## 🧠 Professional Summary
 
-Versatile systems architect and strategic problem-solver with 26 years in technology and 5 years of military service, known for transforming complex business pain points into streamlined, human-centric solutions. Proficient in rapid-cycle development using AI-driven workflows, with hands-on experience building autonomous backlog automation tools and leading long-term, trusted consulting partnerships.
+Versatile systems architect and strategic problem-solver with 26 years in technology and 5 years of military service, known for transforming complex business pain points into streamlined, human-centric solutions. Proficient in rapid-cycle development using AI-driven workflows, with hands-on experience building agentic automation tools and leading long-term, trusted consulting partnerships.
 
-Embracing a philosophy of empathetic immersion, I specialize in refining existing systems for measurable impact—preferring improvement over reinvention. My strength lies in identifying friction points, prompting AI coding agents with surgical precision, and building scalable platforms in record time.
+Embracing a philosophy of empathetic immersion, I specialize in challenging existing systems to build future-proof solutions. My strength lies in identifying friction points, prompting AI coding agents with surgical precision, and building scalable platforms in record time.
 
-Recent breakthroughs include developing swarm agent orchestration for DevOps delivery and rescuing high-risk operations systems for enterprise clients. I leverage tools like Python, Visio, Azure DevOps, and modular YAML pipelines, but remain tool-agnostic—valuing adaptability and purpose above allegiance.
+Recent breakthroughs include developing swarm agent orchestration for DevOps delivery and rescuing high-risk operations systems for enterprise clients. I leverage tools like Claude Code, Cursor, WindSurf, Python, Visio, and Azure DevOps, but remain tool-agnostic—valuing adaptability and purpose above allegiance.
 
 As automation accelerates and autonomy scales, my vision is rooted in preserving clarity, collaboration, and simplicity—even in complex ecosystems. I believe the future of work is not just lighter—but deeply reimagined.
 
@@ -21,13 +21,13 @@ As automation accelerates and autonomy scales, my vision is rooted in preserving
 
 | Focus Area               | Highlights                                                                 |
 |--------------------------|----------------------------------------------------------------------------|
-| **Cross-Functional Analysis** | Translate complex business needs into technical requirements using wireframes, process maps, and documentation |
+| **Cross-Functional Analysis** | Translate complex business needs into technical requirements using wireframes, process maps, and Just-Enough documentation |
 | **Project Delivery Expertise** | Led both small, budget-conscious implementations and enterprise-scale initiatives exceeding millions in scope |
 | **Stakeholder Engagement** | Proven communicator across business domains, with clarity and responsiveness that builds trust and buy-in |
 | **Change Navigation**     | Rapid adaptation to evolving goals and constraints; continuously drives toward high-value outcomes |
 | **Contractor & FTE Perspective** | Experience across organizational models sharpens focus on priorities, politics, and pain points |
-| **Agentic Innovation**    | Built and deployed autonomous AI solutions to execute development workflows end-to-end |
-| **Legacy Translation**    | Fluency in Java, VB, COBOL and modern Python enables deep system insight and scalable migration strategy |
+| **Agentic Innovation**    | Currently working on autonomous AI solutions to execute development workflows end-to-end |
+| **Legacy Translation**    | Fluency in Java, VB, COBOL, and modern Python enables deep system insight and scalable migration strategy |
 | **Process Optimization**  | Initiates iterative enhancements that reduce rework, improve delivery timelines, and boost team morale |
 
 ---
@@ -35,7 +35,7 @@ As automation accelerates and autonomy scales, my vision is rooted in preserving
 ## 🚧 Featured Projects
 
 **Agile Backlog Automation – Multi-Agent AI System for DevOps**  
-Built a modular AI pipeline that interprets high-level product visions and generates full Azure DevOps backlogs—epics, features, user stories, tasks, and test cases. The system uses both cloud and local LLMs to optimize cost and performance, while maintaining transparency and traceability.  
+Built a modular AI pipeline that interprets structured product visions and generates full Azure DevOps backlogs—epics, features, user stories, tasks, and test cases. The system uses both cloud and local LLMs to optimize cost and performance, while maintaining transparency and traceability.  *Public repository:* https://github.com/oldmantran/agile-backlog-automation
 *Tools:* Python, FastAPI, React, Azure DevOps API, Ollama, YAML, SSE  
 - Architected multi-agent roles (Strategist, Decomposer, Developer, QA Lead, Test Planner)  
 - Enabled cost-effective local LLM inference (95–99% reduction over cloud)  
@@ -67,12 +67,11 @@ Led a multi-year initiative to architect and deliver a new administrative tool t
 - Agentic Programming frameworks and custom role orchestration
 
 **Large Language Models (LLMs)**  
-- GPT-4.1, Grok 4, CodeLlama, LLaMA 3.1  
+- GPT-4.1, Grok 4, CodeLlama, LLaMA 3.1, qwen2.5
 - Integration, fine-tuning strategy, and sandbox testing environments
 
 **DevOps & Automation**  
 - Azure DevOps (Repos, Pipelines, Boards, Test Plans)  
-- GitHub Actions  
 - Test Management API integration  
 - Modular pipeline orchestration and CLI architecture
 
@@ -80,6 +79,7 @@ Led a multi-year initiative to architect and deliver a new administrative tool t
 - Visio process flows and blueprint diagrams  
 - Data mapping and model refinement  
 - Agile Backlog Automation and intelligent test case generation
+- AI-driven requirements using CodeGuide
 
 **Databases & Integration**  
 - SQL Server, CosmosDB, PostGres & pgAdmin  
@@ -121,15 +121,7 @@ Led a multi-year initiative to architect and deliver a new administrative tool t
 **Senior Business Analyst**  
 *The Home Depot* – Greater Atlanta Area | Jan 1999 – Jul 2005  
 
-**Hospital Corpsman / Pharmacy Technician**  
+** HM3 - Hospital Corpsman / Pharmacy Technician**  
 *U.S. Navy* – Pensacola, FL | Mar 1994 – Feb 1999  
 
----
 
-Next sections I can help you develop:
-
-- 💼 Professional Experience
-- 🎓 Education & Certifications
-- 🎯 Personal Interests & Hobbies (optional but powerful)
-
-Ready to tackle **Featured Projects** next and spotlight Backlog Automation or POB system delivery? Or want to shape the **Technical Skills** layout first?
