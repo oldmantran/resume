@@ -7,7 +7,7 @@ Houston, TX · kevinttran@hotmail.com · [LinkedIn](https://www.linkedin.com/in/
 
 ## 🧠 Professional Summary
 
-Versatile systems architect and strategic problem-solver with 26 years in technology and 5 years of military service, known for transforming complex business pain points into streamlined, human-centric solutions. Proficient in rapid-cycle development using AI-driven workflows, with hands-on experience building agentic automation tools and leading long-term, trusted consulting partnerships.
+Versatile systems architect and strategic problem-solver with 26 years in technology and 5 years of military service, known for transforming complex business pain points into streamlined, human-centric solutions. Certified Scrum practitioner since 2015 and proficient in rapid-cycle development using AI-driven workflows, with hands-on experience building agentic automation tools and leading long-term, trusted consulting partnerships.
 
 Embracing a philosophy of empathetic immersion, I specialize in challenging existing systems to build future-proof solutions. My strength lies in identifying friction points, prompting AI coding agents with surgical precision, and building scalable platforms in record time.
 
@@ -97,31 +97,49 @@ Led a multi-year initiative to architect and deliver a new administrative tool t
 **Senior Project Delivery Manager**  
 *C4Workx* – Houston, TX | Jan 2025 – Present  
 
-**Managing Consultant**  
+**Managing Consultant - PM/BA**  
 *Indigo Beam Consulting* – Houston, TX | Jan 2023 – Jan 2025  
 
-**Sr. Manager of Cloud Operations – Environments and Infrastructure**  
+**Sr. Manager of Cloud Operations – Infrastructure and Consulting Project Manager**  
 *Quorum Software* – Houston, TX | Aug 2018 – Dec 2022  
 
 **Owner and Principal Consultant**  
 *KTRAN Consulting LLC* – Houston, TX | Feb 2013 – Aug 2018  
 
-**Business Consulting Practice Leader**  
+**Business Consulting Practice Leader and Project Manager Consultant**  
 *Sparkhound* – Houston, TX | Nov 2010 – Feb 2013  
 
-**Principal Consultant**  
+**Principal Consultant - Business Analysis**  
 *Idea Integration* – Houston, TX | Mar 2009 – Nov 2010  
 
-**Principal Consultant**  
+**Principal Consultant - Business Analysis**  
 *Sogeti* – Houston, TX | Apr 2007 – Mar 2009  
 
-**Senior Business Analyst**  
+**Senior Business Analyst and Software Engineer**  
 *TECHSOFT, Inc.* – Pensacola, FL | Feb 2006 – Apr 2007  
 
-**Senior Business Analyst**  
+**Senior Business Analyst and Software Engineer**  
 *The Home Depot* – Greater Atlanta Area | Jan 1999 – Jul 2005  
 
 ** HM3 - Hospital Corpsman / Pharmacy Technician**  
 *U.S. Navy* – Pensacola, FL | Mar 1994 – Feb 1999  
 
+---
+
+### 🎓 Education & Certification
+
+**Professional Scrum Master I (PSM I)**  
+*Scrum.org – January 2025*
+
+**Master of Business Administration (MBA)**  
+*University of Management and Technology – Arlington, VA*  
+*September 2008*
+
+**Master of Science in Information Technology (MSIT)**  
+*University of Management and Technology – Arlington, VA*  
+*July 2007*
+
+**Bachelor of Science in Computer Information Systems (BS CIS)**  
+*University of West Florida – Pensacola, FL*  
+*December 1998*
 
